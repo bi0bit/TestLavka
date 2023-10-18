@@ -1,11 +1,11 @@
-﻿using System;
-using Game.Container;
-using Game.Grab;
-using Game.Player.Data;
-using Game.Player.PlayerInput;
+﻿using TestGame.Construction;
+using TestGame.Grab;
+using TestGame.Move;
+using TestGame.Player.Data;
+using TestGame.Player.PlayerInput;
 using UnityEngine;
 
-namespace Game.Player
+namespace TestGame.Player
 {
 	public class PlayerController : MonoBehaviour
 	{

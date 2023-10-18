@@ -1,7 +1,6 @@
-﻿using Game.Player.Data.Construction;
-using UnityEngine;
+﻿using TestGame.Construction.Data;
 
-namespace Game.Container
+namespace TestGame.Construction
 {
 	public interface IElement
 	{

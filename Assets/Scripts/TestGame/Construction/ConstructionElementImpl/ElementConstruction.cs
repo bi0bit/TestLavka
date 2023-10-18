@@ -1,8 +1,7 @@
-﻿using System;
-using Game.Player.Data.Construction;
+﻿using TestGame.Construction.Data;
 using UnityEngine;
 
-namespace Game.Container
+namespace TestGame.Construction.ConstructionElementImpl
 {
 	public class ElementConstruction : MonoBehaviour, IElement
 	{

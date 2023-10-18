@@ -1,7 +1,7 @@
-﻿using Game.Container;
+﻿using TestGame.Construction;
 using UnityEngine;
 
-namespace Game.Player
+namespace TestGame.Player
 {
 	public class PlayerConstructor : IConstructor
 	{

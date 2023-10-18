@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Game.MoveImpl
+namespace TestGame.Move.MoveImpl
 {
 	public class ForwardMovement : IMovable
 	{

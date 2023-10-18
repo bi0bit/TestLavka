@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Game.Player.Data.Construction
+namespace TestGame.Construction.Data
 {
 	[CreateAssetMenu(fileName = "ElementData", menuName = "GameData/ConstructionElementData", order = 0)]
 	public class ConstructionElementData : ScriptableObject

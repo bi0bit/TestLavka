@@ -1,9 +1,9 @@
-﻿using Game.MoveImpl;
-using Game.Player;
-using Game.Player.PlayerInput;
+﻿using TestGame.Move.MoveImpl;
+using TestGame.Player;
+using TestGame.Player.PlayerInput;
 using UnityEngine;
 
-namespace Game
+namespace TestGame
 {
 	public class GameSetup : MonoBehaviour
 	{

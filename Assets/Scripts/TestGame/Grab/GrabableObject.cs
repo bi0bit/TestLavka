@@ -1,7 +1,6 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Game.Grab
+namespace TestGame.Grab
 {
 	[RequireComponent(typeof(Rigidbody))]
 	public class GrabableObject : MonoBehaviour, IGrabable

@@ -1,8 +1,7 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Events;
 
-namespace Game.Player.PlayerInput
+namespace TestGame.Player.PlayerInput
 {
 	public interface IPlayerInput
 	{

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Game
+namespace TestGame.Move
 {
 	public interface IMovable
 	{

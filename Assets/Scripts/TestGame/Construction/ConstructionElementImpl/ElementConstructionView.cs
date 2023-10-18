@@ -1,7 +1,6 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Game.Container
+namespace TestGame.Construction.ConstructionElementImpl
 {
 	[RequireComponent(typeof(Renderer))]
 	public class ElementConstructionView : MonoBehaviour, IElementView
