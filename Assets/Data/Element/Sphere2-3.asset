@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 874687612799488d93588722da37fcfb, type: 3}
   m_Name: Sphere2-3
   m_EditorClassIdentifier: 
-  <Id>k__BackingField: Sphere1-3
+  <Id>k__BackingField: Sphere2-3
   <Color>k__BackingField: {r: 0.040086225, g: 0.023923082, b: 0.3018868, a: 0}
